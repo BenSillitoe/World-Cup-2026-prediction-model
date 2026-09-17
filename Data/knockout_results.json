@@ -1,0 +1,190 @@
+{
+  "round_of_16_probs": [
+    {
+      "team_a": "Canada",
+      "team_b": "Morocco",
+      "stadium": "BC Place",
+      "p_a_wins": 0.4585,
+      "p_b_wins": 0.5415
+    },
+    {
+      "team_a": "Paraguay",
+      "team_b": "France",
+      "stadium": "AT&T Stadium",
+      "p_a_wins": 0.2928,
+      "p_b_wins": 0.7072
+    },
+    {
+      "team_a": "Brazil",
+      "team_b": "Norway",
+      "stadium": "Hard Rock Stadium",
+      "p_a_wins": 0.6415,
+      "p_b_wins": 0.3585
+    },
+    {
+      "team_a": "Mexico",
+      "team_b": "England",
+      "stadium": "Estadio Azteca",
+      "p_a_wins": 0.5492,
+      "p_b_wins": 0.4508
+    },
+    {
+      "team_a": "Portugal",
+      "team_b": "Spain",
+      "stadium": "MetLife Stadium",
+      "p_a_wins": 0.2871,
+      "p_b_wins": 0.7129
+    },
+    {
+      "team_a": "United States",
+      "team_b": "Belgium",
+      "stadium": "SoFi Stadium",
+      "p_a_wins": 0.5399,
+      "p_b_wins": 0.4601
+    },
+    {
+      "team_a": "Argentina",
+      "team_b": "Egypt",
+      "stadium": "NRG Stadium",
+      "p_a_wins": 0.853,
+      "p_b_wins": 0.147
+    },
+    {
+      "team_a": "Switzerland",
+      "team_b": "Colombia",
+      "stadium": "Estadio BBVA",
+      "p_a_wins": 0.3299,
+      "p_b_wins": 0.6701
+    }
+  ],
+  "tournament_probs": [
+    {
+      "team": "Spain",
+      "p_r16": 0.719,
+      "p_qf": 0.5731,
+      "p_sf": 0.3492,
+      "p_final": 0.3492,
+      "p_win": 0.2313
+    },
+    {
+      "team": "Argentina",
+      "p_r16": 0.8544,
+      "p_qf": 0.5864,
+      "p_sf": 0.3412,
+      "p_final": 0.3412,
+      "p_win": 0.2212
+    },
+    {
+      "team": "France",
+      "p_r16": 0.7107,
+      "p_qf": 0.4847,
+      "p_sf": 0.3038,
+      "p_final": 0.3038,
+      "p_win": 0.1509
+    },
+    {
+      "team": "England",
+      "p_r16": 0.4508,
+      "p_qf": 0.2609,
+      "p_sf": 0.1436,
+      "p_final": 0.1436,
+      "p_win": 0.07
+    },
+    {
+      "team": "Brazil",
+      "p_r16": 0.6561,
+      "p_qf": 0.3504,
+      "p_sf": 0.1735,
+      "p_final": 0.1735,
+      "p_win": 0.0678
+    },
+    {
+      "team": "Colombia",
+      "p_r16": 0.6702,
+      "p_qf": 0.2755,
+      "p_sf": 0.1223,
+      "p_final": 0.1223,
+      "p_win": 0.0612
+    },
+    {
+      "team": "Morocco",
+      "p_r16": 0.5495,
+      "p_qf": 0.2508,
+      "p_sf": 0.1297,
+      "p_final": 0.1297,
+      "p_win": 0.049
+    },
+    {
+      "team": "Mexico",
+      "p_r16": 0.5492,
+      "p_qf": 0.2373,
+      "p_sf": 0.0962,
+      "p_final": 0.0962,
+      "p_win": 0.03
+    },
+    {
+      "team": "Portugal",
+      "p_r16": 0.281,
+      "p_qf": 0.1696,
+      "p_sf": 0.0632,
+      "p_final": 0.0632,
+      "p_win": 0.0288
+    },
+    {
+      "team": "Norway",
+      "p_r16": 0.3439,
+      "p_qf": 0.1514,
+      "p_sf": 0.0651,
+      "p_final": 0.0651,
+      "p_win": 0.0227
+    },
+    {
+      "team": "Belgium",
+      "p_r16": 0.466,
+      "p_qf": 0.1332,
+      "p_sf": 0.0447,
+      "p_final": 0.0447,
+      "p_win": 0.0167
+    },
+    {
+      "team": "Switzerland",
+      "p_r16": 0.3298,
+      "p_qf": 0.1052,
+      "p_sf": 0.0374,
+      "p_final": 0.0374,
+      "p_win": 0.0144
+    },
+    {
+      "team": "Canada",
+      "p_r16": 0.4505,
+      "p_qf": 0.1384,
+      "p_sf": 0.0468,
+      "p_final": 0.0468,
+      "p_win": 0.0119
+    },
+    {
+      "team": "Paraguay",
+      "p_r16": 0.2893,
+      "p_qf": 0.1261,
+      "p_sf": 0.0413,
+      "p_final": 0.0413,
+      "p_win": 0.0116
+    },
+    {
+      "team": "United States",
+      "p_r16": 0.534,
+      "p_qf": 0.1241,
+      "p_sf": 0.035,
+      "p_final": 0.035,
+      "p_win": 0.0106
+    },
+    {
+      "team": "Egypt",
+      "p_r16": 0.1456,
+      "p_qf": 0.0329,
+      "p_sf": 0.007,
+      "p_final": 0.007,
+      "p_win": 0.0019
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+# Python
+
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.ipynd_checkpoints/
+.env
+
+# Xcode / Swift
+DerivedData/
+*.xcuserstate
+xcuserdata/
+.build/
+
+# macOS
+.DS_Store
+
+#IDE
+.idea/
+
+#Secrets
+Config.swift
+Secrets.swift
+api_keys.py
